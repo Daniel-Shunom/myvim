@@ -1,3 +1,6 @@
+source ~/.vimconf/nerdtree/nerd.vim
+
+
 set nocompatible
 set encoding=UTF-8
 set number
